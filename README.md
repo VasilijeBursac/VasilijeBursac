@@ -22,3 +22,7 @@ My biggest interests are Software Development and Human-Computer Interaction. I 
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/vasilijebursac/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
